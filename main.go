@@ -15,7 +15,7 @@ import (
 
 // record separator ascii
 var (
-	rs = string(byte(30))
+	rs = ","
 )
 
 func main() {
